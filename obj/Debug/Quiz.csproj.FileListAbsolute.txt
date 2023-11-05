@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\C#\ExamProject\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\User\Desktop\C#\ExamProject\Quiz\bin\Debug\Quiz.exe
+C:\Users\User\Desktop\C#\ExamProject\Quiz\bin\Debug\Quiz.pdb
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\Quiz.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\Quiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\Quiz.exe
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\Quiz.pdb

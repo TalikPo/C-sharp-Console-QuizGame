@@ -1,0 +1,120 @@
+What is a correct syntax to output "Hello world" in C++?
+Console.WriteLine("Hello world");
+System.out.println("Hello world");
+print("Hello world");
+cout << "Hello world";
+4
+How do you create a variable with the numeric value 5?
+num x = 5
+double x = 5;
+int x = 5;
+x = 5;
+3
+How do you create a variable with the floating number 2.8?
+double x = 2.8;
+byte x = 2.8
+x = 2.8;
+int x = 2.8;
+1
+Which method can be used to find the length of a string?
+len()
+length()
+getSize()
+getLength()
+2
+Which operator is used to add together two values?
+The & sign
+The * sign
+The + sign
+
+3
+The value of a string variable can be surrounded by single quotes.
+False
+True
+
+
+1
+Which header file lets us work with input and output objects?
+#include<stream>
+#include<iostream>
+#include<inputstr>
+#include<iosstring>
+2
+Which operator can be used to compare two values?
+<>
+><
+==
+=
+3
+To declare an array in C++, define the variable type with:
+{}
+()
+[]
+
+3
+How do you create a function in C++?
+functionName.
+functionName()
+functionName[]
+(functionName)
+2
+In C++, it is possible to inherit attributes and methods from one class to another.
+True
+False
+
+
+1
+How do you create a reference variable of an existing variable?
+With a ref word
+With a * operator
+With a & operator
+With a ** operator
+3
+Choose the pure virtual function definition from the following.
+virtual void f()=0 { }
+void virtual f()=0 { }
+virtual void f() {} = 0;
+None of the above.
+4
+Pick up the valid declaration for overloading ++ in postfix form where T is the class name.
+T operator++();
+T operator++(int);
+T& operator++();
+T& operator++(int);
+2
+With respective to streams >> (operator) is called as
+Insertion operator
+Extraction operator
+Right shift operator
+Left shift operator
+2
+What is the size of ‘int’?
+2
+4
+8
+Compiler dependent
+4
+What is the correct value to return to the operating system upon the successful completion of a program ?
+1
+-1
+0
+None of the Above
+3
+If m and n are int type variables, what will be the result of the expression m%n (when m=5 and n=2)
+1
+0
+2
+3
+1
+_____ is a way to bind the data and its associated functions together which allows the data and functions to be hidden.
+Enum
+Structure
+Class
+None of the Above
+3
+When a function is defined inside a class, this function is called
+Inline function
+Interior function
+Inside function
+Class function
+1

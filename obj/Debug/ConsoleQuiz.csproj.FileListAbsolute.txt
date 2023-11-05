@@ -1,0 +1,22 @@
+C:\Users\User\Desktop\C#\ExamProject\Quiz\bin\Debug\Quiz.exe.config
+C:\Users\User\Desktop\C#\ExamProject\Quiz\bin\Debug\Quiz.exe
+C:\Users\User\Desktop\C#\ExamProject\Quiz\bin\Debug\Quiz.pdb
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\ConsoleQuiz.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\ConsoleQuiz.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\ConsoleQuiz.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\Quiz.exe
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\Quiz.pdb
+C:\Users\User\Desktop\C#\ExamProject\Quiz\bin\Debug\BusinesLogic.dll
+C:\Users\User\Desktop\C#\ExamProject\Quiz\bin\Debug\BusinesLogic.pdb
+C:\Users\User\Desktop\C#\ExamProject\Quiz\obj\Debug\ConsoleQuiz.csproj.CopyComplete
+D:\IT Step\C#\ExamProject\Quiz\bin\Debug\Quiz.exe.config
+D:\IT Step\C#\ExamProject\Quiz\bin\Debug\Quiz.exe
+D:\IT Step\C#\ExamProject\Quiz\bin\Debug\Quiz.pdb
+D:\IT Step\C#\ExamProject\Quiz\bin\Debug\BusinesLogic.dll
+D:\IT Step\C#\ExamProject\Quiz\bin\Debug\BusinesLogic.pdb
+D:\IT Step\C#\ExamProject\Quiz\obj\Debug\ConsoleQuiz.csproj.AssemblyReference.cache
+D:\IT Step\C#\ExamProject\Quiz\obj\Debug\ConsoleQuiz.csproj.SuggestedBindingRedirects.cache
+D:\IT Step\C#\ExamProject\Quiz\obj\Debug\ConsoleQuiz.csproj.CoreCompileInputs.cache
+D:\IT Step\C#\ExamProject\Quiz\obj\Debug\ConsoleQuiz.csproj.CopyComplete
+D:\IT Step\C#\ExamProject\Quiz\obj\Debug\Quiz.exe
+D:\IT Step\C#\ExamProject\Quiz\obj\Debug\Quiz.pdb
